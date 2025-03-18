@@ -1,0 +1,17 @@
+C:\Users\SergoSektor\Desktop\docs\lab1_compiler\bin\Release\net8.0-windows\Compiler.exe
+C:\Users\SergoSektor\Desktop\docs\lab1_compiler\bin\Release\net8.0-windows\Compiler.deps.json
+C:\Users\SergoSektor\Desktop\docs\lab1_compiler\bin\Release\net8.0-windows\Compiler.runtimeconfig.json
+C:\Users\SergoSektor\Desktop\docs\lab1_compiler\bin\Release\net8.0-windows\Compiler.dll
+C:\Users\SergoSektor\Desktop\docs\lab1_compiler\bin\Release\net8.0-windows\Compiler.pdb
+C:\Users\SergoSektor\Desktop\docs\lab1_compiler\obj\Release\net8.0-windows\lab1_compiler.Compiler.resources
+C:\Users\SergoSektor\Desktop\docs\lab1_compiler\obj\Release\net8.0-windows\Compiler.Properties.Resources.resources
+C:\Users\SergoSektor\Desktop\docs\lab1_compiler\obj\Release\net8.0-windows\Compiler.csproj.GenerateResource.cache
+C:\Users\SergoSektor\Desktop\docs\lab1_compiler\obj\Release\net8.0-windows\Compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergoSektor\Desktop\docs\lab1_compiler\obj\Release\net8.0-windows\Compiler.AssemblyInfoInputs.cache
+C:\Users\SergoSektor\Desktop\docs\lab1_compiler\obj\Release\net8.0-windows\Compiler.AssemblyInfo.cs
+C:\Users\SergoSektor\Desktop\docs\lab1_compiler\obj\Release\net8.0-windows\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\SergoSektor\Desktop\docs\lab1_compiler\obj\Release\net8.0-windows\Compiler.dll
+C:\Users\SergoSektor\Desktop\docs\lab1_compiler\obj\Release\net8.0-windows\refint\Compiler.dll
+C:\Users\SergoSektor\Desktop\docs\lab1_compiler\obj\Release\net8.0-windows\Compiler.pdb
+C:\Users\SergoSektor\Desktop\docs\lab1_compiler\obj\Release\net8.0-windows\Compiler.genruntimeconfig.cache
+C:\Users\SergoSektor\Desktop\docs\lab1_compiler\obj\Release\net8.0-windows\ref\Compiler.dll
